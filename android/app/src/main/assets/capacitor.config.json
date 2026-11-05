@@ -1,0 +1,9 @@
+{
+	"appId": "la.mahjongquest4.game",
+	"appName": "Mahjong Quest 4",
+	"webDir": "www",
+	"bundledWebRuntime": false,
+	"server": {
+		"androidScheme": "https"
+	}
+}
